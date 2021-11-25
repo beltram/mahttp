@@ -1,0 +1,14 @@
+[package]
+name = "mahttp"
+version = "0.0.1"
+edition = "2021"
+authors = ["Beltram Maldant"]
+description = "Bridge all http crates"
+homepage = "https://github.com/beltram/mahttp"
+repository = "https://github.com/beltram/mahttp"
+license = "Apache-2.0"
+keywords = ["http"]
+categories = ["api-bindings"]
+
+
+[dependencies]
