@@ -290,6 +290,7 @@ dependencies = [
  "anyhow",
  "http-types",
  "hyper",
+ "mahttp",
 ]
 
 [[package]]
